@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaysi Sanjay Kumar Gaur</h1>
-<h3 align="center">I'm a second year Computer Science Engineering student with specialization in IoT.</h3>
+<h3 align="center">I'm a third year Computer Science Engineering student with specialization in IoT.</h3>
 
 
 
